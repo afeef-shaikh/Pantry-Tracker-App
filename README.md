@@ -38,7 +38,6 @@ To run the Pantry Tracker App locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/afeef-shaikh/Pantry-Tracker-App.git
-Navigate to the Project Directory:
 
 2. **Navigate to the Project Directory**:
     ```bash
